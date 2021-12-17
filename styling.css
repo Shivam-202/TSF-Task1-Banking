@@ -1,0 +1,35 @@
+
+
+#brandName{
+    font-size: 2rem;
+    font-weight: bold;
+    color: yellow;
+    font-style: italic;
+    margin: 4px 0 0px 2rem;
+}
+
+#navi ul li a{
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+#navi ul li a:hover{
+    color: yellow;
+}
+
+#home{
+    background-image: linear-gradient(180deg, orange, white,green);
+    height: 585px;
+}
+
+label{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.validation{
+    font-size: 16px;
+    color: red;
+    font-weight: 600;
+}
